@@ -6,8 +6,6 @@
      align="right"  
      alt="Coding Animation">  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niranjanjagadeeshkumars" alt="niranjanjagadeeshkumars" /></a> </p>
-
 - 🔭 I’m currently working on **Arduino Projects**
 
 - 🌱 I’m currently learning **Frontent Development & Machine Learning**
